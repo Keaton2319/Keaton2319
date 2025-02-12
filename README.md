@@ -12,3 +12,7 @@
 ## Contact
 
 - 📱 You can find me krswildcats27@gmail.com
+
+## Currently Working On
+- Python
+- Java
